@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "XSS-Tester": {
+      "commandName": "Project"
+    }
+  }
+}
